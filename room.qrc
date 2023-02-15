@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>elite/0n.png</file>
+        <file>elite/1n.png</file>
+        <file>elite/2n.png</file>
+        <file>elite/3n.png</file>
+        <file>elite/4n.png</file>
+        <file>elite/5n.png</file>
+        <file>elite/6n.png</file>
+        <file>elite/7n.png</file>
+        <file>elite/8n.png</file>
+        <file>elite/9n.png</file>
+        <file>elite/10n.png</file>
+        <file>elite/11n.png</file>
+        <file>elite/12n.png</file>
+        <file>elite/main.png</file>
+        <file>elite/bar.png</file>
+        <file>elite/grey.png</file>
+        <file>elite/magenta.png</file>
+        <file>elite/1c.png</file>
+        <file>elite/bg.png</file>
+        <file>elite/bg2.png</file>
+        <file>elite/2c.png</file>
+    </qresource>
+</RCC>
